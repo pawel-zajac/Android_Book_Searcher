@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Book Searcher</string>
+
+
+    <string name="info_text">Enter a search phrase and tap the button</string>
+    <string name="search_window_hint">search phrase</string>
+    <string name="search_button_text">SEARCH</string>
+    <string name="no_phrase_error">Enter search phrase</string>
+
+
+    <string name="search_results_empty">No results found\nTry again with different phrase</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+    <string name="search_results_header">Search results</string>
+    <string name="search_results_for">Results for phrase \"</string>
+    <string name="title">Title:</string>
+    <string name="author">Author:</string>
+    <string name="category">Category:\ </string>
+
+    <string name="no_authors">No authors</string>
+
+
+
+</resources>
